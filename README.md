@@ -27,6 +27,5 @@ Building **secure**, **scalable**, and **cost-efficient** systems in the cloud.
 
 ## 📫 Let's Connect
 
-🌐 **LinkedIn**  
-📧 **Email**  
-🧑‍💻 **Portfolio / Website**  
+🌐 **[LinkedIn](https://linkedin.com/in/iacona)**  
+📧 **[Email](mailto:iacona67@yahoo.com)**  

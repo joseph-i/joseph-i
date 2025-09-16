@@ -12,7 +12,6 @@ Building **secure**, **scalable**, and **cost-efficient** systems in the cloud.
 🛠️ **Thrived** in sole engineer roles, taking on more responsibility than most  
 💰 **Passionate** about cost optimization and being resource-responsible  
 📝 **Strong focus** on documentation & clear communication  
-🤖 I **responsibly use AI tools** when they save time — but all my code and writing here is my own ✍️  
 📚 **Always learning** & exploring new tools, automation, and innovative approaches  
 
 ---

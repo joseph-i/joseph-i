@@ -16,28 +16,6 @@ Building **secure**, **scalable**, and **cost-efficient** systems in the cloud.
 
 ---
 
-## 🔧 Tech Toolbox
-
-### ☁️ Cloud
-**AWS** | **GCP**
-
-### 📦 Containers
-**Docker** | **Kubernetes**
-
-### ⚙️ Infrastructure as Code
-**Terraform** | **Ansible**
-
-### 🚀 CI/CD
-**GitHub Actions** | **Jenkins** | **GitLab CI**
-
-### 📊 Observability
-**Prometheus** | **Grafana** | **ELK Stack**
-
-### 🔐 Security
-**IAM best practices** | **Secrets management**
-
----
-
 ## 🌱 What I'm Learning / Exploring
 
 🔄 **Improving** Kubernetes clusters for resilience and scalability  
@@ -52,7 +30,3 @@ Building **secure**, **scalable**, and **cost-efficient** systems in the cloud.
 🌐 **LinkedIn**  
 📧 **Email**  
 🧑‍💻 **Portfolio / Website**  
-
----
-
-## ✨ Always curious. Always optimizing. Always building. ✨

@@ -16,7 +16,7 @@ Building **secure**, **scalable**, and **cost-efficient** systems in the cloud.
 
 ---
 
-## 🌱 What I'm Learning / Exploring
+## 🌱 What I'm Exploring
 
 🔄 **Improving** Kubernetes clusters for resilience and scalability  
 ⚡ **Streamlining** CI/CD pipelines to cut deployment time  
